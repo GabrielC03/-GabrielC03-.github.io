@@ -1,9 +1,8 @@
-# Jane Doe
+# Gabriel Cabrera
 Data Analyst
-| [example@gmail.com](mailto:example@gmail.com)
-| [+254 777 777 777](tel:+254777777777)
-| [example.com](https://example.com)
-| [linkedin.com/in/janedoe](https://www2.linkedin.com/in/janedoe/)
+| [g.cabrera4@icloud.com]
+| [+201 895 8789]
+| [Linkedin: www.linkedin.com/in/gabriel-cabrera-templeuniversity
 
 ## About me
 Data-driven professional with a passion for uncovering insights from data to solve real-world business problems. Skilled in Python, SQL, and Tableau, with a strong background in statistical analysis. In my free time, I enjoy hiking and exploring new technology.
