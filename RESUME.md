@@ -2,60 +2,62 @@
 Data Analyst
 | [g.cabrera4@icloud.com]
 | [+201 895 8789]
-| [Linkedin: www.linkedin.com/in/gabriel-cabrera-templeuniversity
+| [ www.linkedin.com/in/gabriel-cabrera-templeuniversity]
 
 ## About me
-Data-driven professional with a passion for uncovering insights from data to solve real-world business problems. Skilled in Python, SQL, and Tableau, with a strong background in statistical analysis. In my free time, I enjoy hiking and exploring new technology.
+Data-driven analyst with a passion for the integration of genomics into medicine through utilization of bioinformatics and data analysis. Skilled in python, R-coding, and machine learning, with a strong background in genomics. In my free time, I love to cook for others and being active.
 
 ## Work Experience
 
-### Data Analyst, ABC Tech Solutions
-*January 2023 - Present*
+### Head of Research and Development, Reiwa Pharmaceuticals
+*Tokyo, Japan*
+*May 2024 - August 2024*
 
-- Utilize data analysis to optimize business operations and increase efficiency
-- Collaborate with cross-functional teams to develop predictive models
-- Lead data visualization projects to present findings to stakeholders
+-Experimental Design: Developed comprehensive experimental designs for cutting-edge
+supplement products, ensuring robust methodology and scientific rigor
+-Human Trials: Executed detailed experimental procedures, including multiple phases of human
+trials, to gather empirical data and validate product efficacy
+-Data Analysis: Performed sophisticated data analysis using R programming and advanced Excel
+functions to derive critical insights and support evidence-based decision making.
 
-### Junior Data Analyst, XYZ Corp
-*June 2021 - December 2022*
+### Data Analysis Intern, Margin
+*Montclair, NJ*
+*May 2023–August 2023*
 
-- Assisted in cleaning and analyzing large datasets for business insights
-- Supported the development of dashboards for real-time business tracking
-- Provided actionable recommendations to improve marketing strategies
+-Product Information Management: Facilitated the retention and accuracy of product
+information for various medical device manufacturers, ensuring consistency and compliance with
+industry standards.
+-Business Acumen: Acquired in-depth knowledge of the business operations within the medical
+field, alongside a comprehensive understanding of commonly used medical devices and tools.
+-Data Analysis: Developed critical analysis spreadsheets handling large datasets using advanced
+Excel functionalities, contributing to data-driven decision-making processes
 
 ## Education
 
-### Bachelor of Science in Data Science  
-*University of Nairobi*  
-*2017 - 2021*
+### Bachelor of Science in Genomic Medicine
 
-## Skills
+### Master's of Bioinformatics and Biological Data Analysis
 
-- Data Analysis: Python, SQL, R
-- Visualization Tools: Tableau, PowerBI
-- Machine Learning: Scikit-learn, TensorFlow
-- Statistical Analysis: STATA, SPSS
 
-## Certifications
+## Technical Projects
 
-- Google Data Analytics Professional Certificate - 2022
-- Microsoft Certified: Azure Data Scientist Associate - 2021
-
-## Projects
-
-### Sales Forecasting Model
-Developed a sales forecasting model using machine learning algorithms to predict future sales trends based on historical data.
-
-### Customer Segmentation Analysis
-Conducted customer segmentation analysis using clustering techniques to enhance targeted marketing campaigns.
-
-## Languages
-
-- English: Fluent
-- Swahili: Native
+### Micro CT Analysis on Ketogenic Diet Study
+*Bioengineering*
+*August 2022– January 2023*
+- Analyzed quantitative data on bones using Dragonfly software
+- Dissected bone necessary to analyze bone morphology
+- Organized protocol for analyzing data
+- Worked in a team environment to create publications
+### Research on Colon Tumors in Colon Cancer
+*Biochemistry*
+*September 2023– May 2024*
+- Maintained cell cultures daily
+- Perform genotyping and Gel Electrophoresis
+- Finding relationships between genes and gene function
 
 ## Interests
 
-- Hiking
+- Cooking
 - Technology
-- Photography
+- New York Knicks Basketball
+- Biking
